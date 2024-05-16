@@ -28,8 +28,6 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
 ---  
-  
-<h2 align="left">Hello, I'm Ashwanth! 👋</h2>
 
 ###
 
