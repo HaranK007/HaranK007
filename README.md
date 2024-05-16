@@ -74,7 +74,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <br clear="both">
 
-![Snake animation](https://github.com/HaranK007/HaranK007/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/HaranK007/HaranK007/output/github-contribution-grid-snake-dark.svg)
 
 ###
 <p align="center">
