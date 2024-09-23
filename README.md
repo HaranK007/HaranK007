@@ -11,7 +11,7 @@ name: Shreeharan K
 
 education:
   [
-    "B.Tech in Computer Science and Engineering - (Pre-final-year)"
+    "B.Tech in Computer Science and Engineering - (Final-year)"
   ]
 Life_status : Single
 
@@ -24,7 +24,7 @@ fields_of_interests:
   
 currently_learning: ["Rust"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Cricket", "Art", "Comedy"]
 ```
   
 ---  
