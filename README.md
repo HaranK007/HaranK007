@@ -7,24 +7,27 @@
 <h2> 👨🏻‍💻 &nbsp;More About Me</h2>
 
 ```yaml
-name: Shreeharan K
+def user_data :
+  education =  "B.Tech in Computer Science and Engineering - (Final-year)" 
+  Life_status = None
 
-education:
-  [
-    "B.Tech in Computer Science and Engineering - (Final-year)"
-  ]
-Life_status : Single
+  fields_of_interests = [ "Blockchain", "Web Development", "Cryptography", "Python" ]
+  currently_learning = "Zero Knowledge Proofs"
+  2024 Goals = ["Work on 10+ Projects and learn at least 5-10 new Technologies."]
 
-fields_of_interests:
-  [
-    "Blockchain",
-    "Web Development",
-    "Cryptography",
-  ]
-  
-currently_learning: ["Rust"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Cricket", "Art", "Comedy"]
+  hobbies = ["Gaming", "Cinema", "Cricket", "Art", "Comedy"]
+
+  result = {
+              "education": education,
+              "life_status": life_status,
+              "fields_of_interests": fields_of_interests,
+              "currently_learning": currently_learning,
+              "goals_2024": goals_2024,
+              "hobbies": hobbies
+          }
+
+  return result if Life_status else None
+
 ```
   
 ---  
